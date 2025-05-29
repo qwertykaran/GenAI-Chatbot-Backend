@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+transformers
+torch  # Only if needed by the Hugging Face model
+neo4j
