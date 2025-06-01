@@ -37,13 +37,15 @@ This backend powers the **GenAI Healthcare Chatbot**, a smart assistant that lev
 - Neo4j Desktop installed and running locally ([https://neo4j.com/docs/desktop-manual/current/installation/](https://neo4j.com/docs/desktop-manual/current/installation/))  
 - Hugging Face API token (optional if using hosted inference)
 
-### Installation
+## 🚀 Installation
 
+```bash
 git clone https://github.com/yourusername/genai-healthcare-backend.git
 cd genai-healthcare-backend
 python -m venv venv
-source venv/bin/activate # Windows: venv\Scripts\activate
+source venv/bin/activate   # For Windows: venv\Scripts\activate
 pip install -r requirements.txt
+```
 
 
 ---
@@ -51,12 +53,12 @@ pip install -r requirements.txt
 ### Environment Variables
 
 Create a `.env` file in the root directory:
-
+```bash
 NEO4J_URI=bolt://localhost:7687
 NEO4J_USERNAME=neo4j
 NEO4J_PASSWORD=<your-neo4j-password>
 HF_MODEL_NAME=google/flan-t5-large
-
+```
 
 ---
 
