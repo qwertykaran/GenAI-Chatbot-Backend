@@ -12,6 +12,20 @@ import re
 
 # --- FastAPI Setup ---
 app = FastAPI()
+import os
+
+
+
+# @app.get("/db-test")
+# def db_test():
+#     uri = os.getenv("NEO4J_URI")
+#     user = os.getenv("NEO4J_USERNAME")
+#     pwd = os.getenv("NEO4J_PASSWORD")
+#     driver = GraphDatabase.driver(uri, auth=(user, pwd))
+#     with driver.session() as session:
+#         result = session.run("RETURN 1 AS test")
+#         return {"db_test": result.single()["test"]}
+    
 
 app.add_middleware(
     CORSMiddleware,

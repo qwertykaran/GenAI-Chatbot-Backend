@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: genai-chatbot
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: ./runs.sh
+    envVars:
+      - key: PORT
+        value: 10000
