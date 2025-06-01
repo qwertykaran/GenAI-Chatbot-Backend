@@ -12,7 +12,13 @@ This backend powers the **GenAI Healthcare Chatbot**, a smart assistant that lev
 - **Purpose:** Deliver insightful, patient-centric responses by querying graph data and generating natural language answers.
 
 ---
+## 📜 Certification
 
+This project was certified by **Intel**.
+
+[View Certificate (PDF)](INTEL_CERTIFICATE.pdf)
+
+---
 ## ⚙️ Features
 
 - FastAPI REST API with clean, scalable endpoints  
