@@ -64,8 +64,10 @@ HF_MODEL_NAME=google/flan-t5-large
 
 ### Run the Backend
 
-uvicorn main:app --reload
+```bash
 
+uvicorn main:app --reload
+```
 
 ---
 
@@ -84,7 +86,7 @@ Send a POST request to `/chat` with JSON body:
 
 ## 📸 Screenshots
 
-
+![Alt text](./Demo.png)
 
 ---
 
