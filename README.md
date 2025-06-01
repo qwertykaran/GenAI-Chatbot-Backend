@@ -14,7 +14,7 @@ This backend powers the **GenAI Healthcare Chatbot**, a smart assistant that lev
 ---
 ## 📜 Certification
 
-This project was certified by **Intel**.
+This project was certified by **Intel®**.
 
 [View Certificate (PDF)](INTEL_CERTIFICATE.pdf)
 
