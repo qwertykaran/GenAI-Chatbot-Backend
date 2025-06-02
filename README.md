@@ -10,6 +10,29 @@ This backend powers the **GenAI Healthcare Chatbot**, a smart assistant that lev
 
 - **Built with:** FastAPI, Neo4j Desktop (local), Hugging Face Transformers  
 - **Purpose:** Deliver insightful, patient-centric responses by querying graph data and generating natural language answers.
+---
+## 🛠 Tech Stack
+
+**Frontend:**  
+- React (JavaScript)
+- Axios (API requests)
+- HTML5 & CSS3 (inline styles, responsive design)
+
+**Backend:**  
+- FastAPI (Python)
+- Uvicorn (ASGI server)
+- Python-dotenv (env variable management)
+
+**Database:**  
+- Neo4j Desktop (local graph database)
+
+**AI/NLP:**  
+- Hugging Face Transformers (e.g., flan-t5-large)
+
+**Other Tools:**  
+- Git & GitHub (version control)
+- Visual Studio Code (recommended editor)
+- REST Client (e.g., Postman or browser for API testing)
 
 ---
 ## 📜 Certification
