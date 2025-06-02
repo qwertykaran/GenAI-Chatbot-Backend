@@ -114,7 +114,7 @@ Send a POST request to `/chat` with JSON body:
 
 ## 📎 Links
 
-- Frontend Repo: [genai-healthcare-frontend](https://github.com/yourusername/genai-healthcare-frontend)  
+- Frontend Repo: [genai-healthcare-frontend](https://github.com/qwertykaran/GenAI-Chatbot-Frontend.git)  
 - Neo4j Desktop Docs: [https://neo4j.com/docs/desktop-manual/current/](https://neo4j.com/docs/desktop-manual/current/)
 
 ---
