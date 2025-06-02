@@ -6,10 +6,10 @@
 
 ## 🔍 Project Overview
 
-This backend powers the **GenAI Healthcare Chatbot**, a smart assistant that leverages a local graph database and state-of-the-art NLP models to answer healthcare-related queries with context-aware precision.
+**This backend powers the **GenAI Healthcare Chatbot**, a smart assistant that leverages a local graph database and state-of-the-art NLP models to answer healthcare-related queries with context-aware precision.
 
 - **Built with:** FastAPI, Neo4j Desktop (local), Hugging Face Transformers  
-- **Purpose:** Deliver insightful, patient-centric responses by querying graph data and generating natural language answers.
+- **Purpose:** Deliver insightful, patient-centric responses by querying graph data and generating natural language answers.**
 ---
 ## 🛠 Tech Stack
 
