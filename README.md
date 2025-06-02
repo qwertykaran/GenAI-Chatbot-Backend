@@ -24,7 +24,7 @@ This backend powers the **GenAI Healthcare Chatbot**, a smart assistant that lev
 - Python-dotenv (env variable management)
 
 **Database:**  
-- Neo4j Desktop (local graph database)
+- Neo4j Desktop (Graph Database)
 
 **AI/NLP:**  
 - Hugging Face Transformers (flan-t5-large)
@@ -32,7 +32,7 @@ This backend powers the **GenAI Healthcare Chatbot**, a smart assistant that lev
 **Other Tools:**  
 - Git & GitHub (version control)
 - Visual Studio Code (recommended editor)
-- REST Client (e.g., Postman or browser for API testing)
+- REST Client (Postman or browser for API testing)
 
 ---
 ## 📜 Certification
