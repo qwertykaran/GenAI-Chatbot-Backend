@@ -27,7 +27,7 @@ This backend powers the **GenAI Healthcare Chatbot**, a smart assistant that lev
 - Neo4j Desktop (local graph database)
 
 **AI/NLP:**  
-- Hugging Face Transformers (e.g., flan-t5-large)
+- Hugging Face Transformers (flan-t5-large)
 
 **Other Tools:**  
 - Git & GitHub (version control)
